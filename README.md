@@ -41,4 +41,4 @@ A melhoria também é visível na qualidade do texto gerado. Usando a mesma fras
 * **Linguagem:** Python
 * **Framework:** PyTorch
 * **Arquitetura:** LSTM Bidirecional (4 camadas de 256 unidades)
-* **Dataset:** [Song Lyrics Dataset](https://www.kaggle.com/datasets/neisse/song-lyrics-dataset) do Kaggle
+* **Dataset:** [Song Lyrics Dataset](https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset) do Kaggle
